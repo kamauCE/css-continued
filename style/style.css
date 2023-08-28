@@ -1,0 +1,35 @@
+p{
+direction: rtl;
+unicode-bidi: bidi-override;
+font-style: italic;
+font-weight: bolder;
+}
+h1{
+    text-indent: 70px;
+    line-height:  40px;
+    letter-spacing: 8px;
+    word-spacing: 15px;
+    text-shadow: 2px 3px goldenrod;
+    font-family: cursive;
+    font-variant: small-caps;
+}
+.liis{
+    list-style-type: circle;
+    list-style-position:outside;
+    list-style-image: none;
+}
+.yoo{
+    border: solid burlywood;
+    border-style: dashed;
+}
+tr:hover{
+    background-color: beige;
+}
+.mmh{
+    float: right;
+    list-style-type: none;
+    text-align: center;
+}
+li a{
+    display: inline-block;
+}
